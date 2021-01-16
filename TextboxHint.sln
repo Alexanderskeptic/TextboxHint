@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextboxHint", "TextboxHint.csproj", "{EFF3AA22-FBCF-4B34-BE17-7AD5390DC2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF3AA22-FBCF-4B34-BE17-7AD5390DC2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF3AA22-FBCF-4B34-BE17-7AD5390DC2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF3AA22-FBCF-4B34-BE17-7AD5390DC2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF3AA22-FBCF-4B34-BE17-7AD5390DC2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17213259-9319-4F59-B564-077180EEA583}
+	EndGlobalSection
+EndGlobal
